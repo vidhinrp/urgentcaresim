@@ -1,1 +1,3 @@
-# urgentcaresim
+# Urgent Care Simulation Model
+
+This project presents a discrete event simulation model for an urgent care facility, incorporating patient screenings for depression alongside primary care consultations. The implementation includes a detailed simulation trace, providing insight into each patient's journey within the system. Sample paths are plotted for various metrics, such as patient flow and specialist utilization, while performance statistics including average patient times in the system and waiting times for both primary care and mental health consultations are reported to assess operational efficiency.
